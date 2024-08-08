@@ -59,35 +59,3 @@ To run e2e tests (the MySQL instance must be available), run the following comma
 ```bash
   pnpm test:e2e
 ```
-
-## Tech Stack
-
-**Server:** Typescript, SQLite, Nest.js, TypeORM
-
-**Test:** Jest, SuperTest
-
-## Author
-
-👤 **Jaime Leonardo Suncin Cruz**
-
-- Twitter: [@jl_suncin](https://twitter.com/jl_suncin)
-- Github: [@leosuncin](https://github.com/leosuncin)
-- LinkedIn: [@jaimesuncin](https://linkedin.com/in/jaimesuncin)<!-- markdown-link-check-disable-line -->
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## Related
-
-Here are some more example projects with Nest.js
-
-[![Authentication example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-auth-example)](https://github.com/leosuncin/nest-auth-example)
-
-[![API example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-api-example)](https://github.com/leosuncin/nest-api-example)
-
-[![GraphQL example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-graphql-example)](https://github.com/leosuncin/nest-graphql-example)
-
-## License
-
-Release under the terms of [MIT](./LICENSE)
