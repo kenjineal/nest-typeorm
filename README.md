@@ -59,3 +59,9 @@ To run e2e tests (the MySQL instance must be available), run the following comma
 ```bash
   pnpm test:e2e
 ```
+
+## Tech Stack
+
+**Server:** Typescript, SQLite, Nest.js, TypeORM
+
+**Test:** Jest, SuperTest
